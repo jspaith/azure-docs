@@ -113,7 +113,7 @@ We assume the following file names from the sample scripts above:
 | Output | File name |
 | ------ | --------- |
 | Device certificate | `certs/new-edge-device.cert.pem` |
-| Device private key | `private/new-edge-device.cert.pem` |
+| Device private key | `private/new-edge-device.key.pem` |
 | Device certificate chain | `certs/new-edge-device-full-chain.cert.pem` |
 | IoT hub owner CA | `certs/azure-iot-test-only.root.ca.cert.pem`  |
 
